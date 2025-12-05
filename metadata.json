@@ -1,0 +1,5 @@
+{
+  "name": "Radio Globe 3D",
+  "description": "An immersive 3D interactive globe that allows users to explore and listen to live radio stations from around the world by selecting locations on Earth.",
+  "requestFramePermissions": []
+}
